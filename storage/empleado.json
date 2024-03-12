@@ -1,0 +1,14 @@
+{
+    "clientes": [
+        {
+            "codigo": 3,
+            "nombre": "Miguel Angel",
+            "apellido": "Castro Escamilla"
+        },
+        {
+            "codigo": 4,
+            "nombre": "Maria Sol",
+            "apellido": "Pinzon"
+        }
+    ]
+}
