@@ -1,13 +1,13 @@
 {
     "clientes": [
         {
-            "codigo": 3,
-            "nombre": "Miguel Angel",
+            "codigo": 1,
+            "nombre": "Empleado 1",
             "apellido": "Castro Escamilla"
         },
         {
-            "codigo": 4,
-            "nombre": "Maria Sol",
+            "codigo": 2,
+            "nombre": "Empleado 2",
             "apellido": "Pinzon"
         }
     ]
